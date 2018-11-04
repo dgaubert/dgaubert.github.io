@@ -2,7 +2,7 @@ title: "@dgaubert <Daniel García Aubert>"
 description: Software Engineer
 google_analytics:
 show_downloads: true
-remote_theme: "mmistakes/minimal-mistakes"
+theme: minimal-mistakes-jekyll
 
 gems:
   - jekyll-mentions
