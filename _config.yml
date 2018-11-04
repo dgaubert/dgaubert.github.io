@@ -1,6 +1,7 @@
 title: "@dgaubert <Daniel García Aubert>"
 description: Software Engineer
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "mint"
 
 plugins:
   - jekyll-include-cache
