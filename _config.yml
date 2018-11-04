@@ -1,8 +1,8 @@
-title: "@dgaubert"
-description: software engineer
-google_analytics: 
+title: "@dgaubert <Daniel García Aubert>"
+description: Software Engineer
+google_analytics:
 show_downloads: true
-theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes"
 
 gems:
   - jekyll-mentions
