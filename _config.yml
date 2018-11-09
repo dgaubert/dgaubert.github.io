@@ -45,9 +45,6 @@ author:
   location: "Madrid"
   email: "danielgarciaaubert@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:danielgarciaaubert@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: https://www.dgaubert.com
