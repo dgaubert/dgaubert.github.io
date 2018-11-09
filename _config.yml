@@ -28,13 +28,13 @@ author:
       url: mailto:danielgarciaaubert@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.dgaubert.com"
+      url: https://www.dgaubert.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/danigaubert"
+      url: https://twitter.com/danigaubert
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/dgaubert"
+      url: https://github.com/dgaubert
 
 # Site Footer
 footer:
