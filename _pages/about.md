@@ -1,8 +1,7 @@
 ---
 permalink: /about/
+title: "About me"
 ---
-
-About me
 
 I'm a software engineer and, I like it!. Indeed I didn't know it when I began my studies on computer science at [CES Santa Bárbara](https://www.centrosantabarbara.es/). I didn't type code before and rarely sat down in front of a computer. Why did I become a software developer?. I'd have liked to study architecture, for instance. However, architecture was a six years degree and, I didn't have much time to finish my studies. Hence, two years of vocational degree fit better for me.
 
