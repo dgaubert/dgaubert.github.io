@@ -11,7 +11,7 @@ title: "@dgaubert"
 title_separator: "-"
 name: "Daniel G.ª Aubert"
 
-include: ["_pages", "_posts"]
+include: ["_pages"]
 
 defaults:
   # _pages
@@ -29,7 +29,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
 
