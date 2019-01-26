@@ -11,7 +11,7 @@ title: "@dgaubert"
 title_separator: "-"
 name: "Daniel G.ª Aubert"
 
-include: ["_pages"]
+include: ["_pages", "_posts"]
 
 defaults:
   # _pages
