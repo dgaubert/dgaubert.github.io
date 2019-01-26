@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Refactor: change reference to value"
 ---
 
