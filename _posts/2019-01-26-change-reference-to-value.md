@@ -31,7 +31,7 @@ After:
 ```js
 class Engine {
   constructor () {
-    this._status = new Status({ value: false })
+    this._status = new Status(value)
   }
 
   get status () {
@@ -39,12 +39,12 @@ class Engine {
   }
 
   start () {
-    this._status = new Status({ value: true })
+    this._status = new Status(true)
     return this._status.value
   }
 
   stop () {
-    this._status = new Status({ value: false })
+    this._status = new Status(false)
     return this._status.value
   }
 }
