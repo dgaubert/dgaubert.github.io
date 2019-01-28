@@ -8,44 +8,21 @@ Before:
 ```js
 class Engine {
   constructor () {
-    this._on = false
-  }
-
-  get status () {
-    return this._on
-  }
-
-  start () {
-    this._on = true
-    return this._on
-  }
-
-  stop () {
-    this._on = true
-    return this._on
-  }
-}
-```
-
-After:
-```js
-class Engine {
-  constructor () {
-    this._status = new Status(value)
-  }
-
-  get status () {
-    return this._status.value
-  }
-
-  start () {
-    this._status = new Status(true)
-    return this._status.value
-  }
-
-  stop () {
     this._status = new Status(false)
-    return this._status.value
+  }
+
+  get status () {
+    return this._status
+  }
+
+  start () {
+    this._status.value = true
+    return this._status
+  }
+
+  stop () {
+    this._status.value = false
+    return this._status
   }
 }
 
@@ -56,6 +33,47 @@ class Status {
 
   get value () {
     return this._value
+  }
+
+  set value (value) {
+    this._value = value
+  }
+}
+```
+
+After:
+```js
+class Engine {
+  constructor () {
+    this._status = new Status(false)
+  }
+
+  get status () {
+    return this._status
+  }
+
+  start () {
+    this._status = new Status(true)
+    return this._status
+  }
+
+  stop () {
+    this._status = new Status(false)
+    return this._status
+  }
+}
+
+class Status {
+  constructor (value) {
+    this._value = value
+  }
+
+  get value () {
+    return this._value
+  }
+
+  set value (value) {
+    this._value = value
   }
 }
 ```
