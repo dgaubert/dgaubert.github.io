@@ -5,7 +5,7 @@ title: "About me"
 
 I’m an enthusiastic software engineer. Even though I didn’t know it when I began my studies on computer science at [CES Santa Bárbara](https://www.centrosantabarbara.es/). I didn't type code before and rarely sat down in front of a computer. Why did I become a software developer?. I’d have liked to study architecture, for instance. However, architecture was a six years degree and, I didn’t have much time to finish my studies. Hence, two years of vocational degree fit better for me.
 
-Once I got the basics of programming I wanted to learn more, teachers encouraged me to begin a Computer Science degree. I took the risk and got into [Carlos III University](https://www.uc3m.es/). Almost three years after, I had to start working full time despite I didn't finish my degree.
+Once I got the basics of programming I wanted to learn more, teachers encouraged me to begin a Computer Science degree. I accept the chanlege and got into [Carlos III University](https://www.uc3m.es/). Almost three years after, I had to start working full time despite I didn't finish my degree.
 
 I joined [Hecate Projects](https://www.linkedin.com/company/h-cate-proyectos-s-l-/) in July 2007. Hecate was a three people company focused on IT consultancy. There I got experience in Java and J2EE ecosystem. I'm extremely grateful to Pilar Manero and Raúl Vega as they were my first family in a software company.
 
